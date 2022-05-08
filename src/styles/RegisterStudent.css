@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('https://exame.com/wp-content/uploads/2017/11/thinkstockphotos-616888966.jpg');
+}
+
+.container-register-student {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 80px;
+
+}
+
+.container-form-register-student {
+    width: 700px;
+    height: 400px;
+    background: rgba(255, 255, 255, 0.35);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(13.5px);
+    -webkit-backdrop-filter: blur(13.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+
+
+
+}
+
+.form-register-student-row-1 {
+    position: relative;
+    left: 50px;
+    top: 50px;
+
+
+
+}
+
+.name-register-student {
+    width: 250px;
+    height: 30px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.email-register-student {
+    width: 250px;
+    height: 30px;
+    position: relative;
+    left: 350px;
+    bottom: 34px;
+    border-radius: 5px;
+
+
+}
+
+.label-email-register-student {
+    position: relative;
+    left: 96px;
+    bottom: 33px;
+}
+
+
+.form-register-student-row-2 {
+    position: relative;
+    left: 50px;
+    top: 40px;
+}
+
+.cpf-register-student {
+    width: 250px;
+    height: 30px;
+    position: relative;
+    border-radius: 5px;
+
+}
+
+.label-birth-date-register-student {
+    position: relative;
+    left: 26px;
+    bottom: 33px;
+
+}
+
+.birth-date-register-student {
+    width: 200px;
+    height: 30px;
+    position: relative;
+    left: 280px;
+    bottom: 34px;
+    border-radius: 5px;
+}
+
+.label-genre-register-student {
+    display: flex;
+    justify-content: end;
+    position: relative;
+    right: 147px;
+    bottom: 93px;
+}
+
+.type-genre-register-student {
+    float: right;
+    position: relative;
+    right: 97px;
+    bottom: 87px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.form-register-student-row-3 {
+    position: relative;
+    left: 50px;
+    top: 10px;
+}
+
+.telphone-register-student{
+    width: 250px;
+    height: 30px;
+    position: relative;
+    border-radius: 5px;
+}
+
+
+
+.label-training-level-register-student {
+    display: flex;
+    justify-content: end;
+    position: relative;
+    right: 246px;
+    bottom: 60px;
+}
+
+
+
+.training-level-register-student {
+    width: 200px;
+    height: 35px;
+    position: relative;
+    left: 348px;
+    bottom: 76px;
+    border-radius: 5px;
+}
+
+.button-register-student{
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    position: relative;
+    left: 210px;
+    bottom: 22px;
+}
