@@ -3,9 +3,6 @@
     padding: 0;
 }
 
-body {
-    background-image: url('https://exame.com/wp-content/uploads/2017/11/thinkstockphotos-616888966.jpg');
-}
 
 .container-register-student {
     display: flex;
@@ -151,4 +148,5 @@ body {
     position: relative;
     left: 210px;
     bottom: 22px;
+    cursor: pointer;
 }

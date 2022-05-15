@@ -14,7 +14,7 @@ function HomePage() {
     }
 
     function navigateToRegisterStudents() {
-        navigate('/registerStudent')
+        navigate('/registerStudents')
     }
 
     function navigateToTraining() {
