@@ -6,8 +6,6 @@ export default ({ rows, columns }) => {
 
   useEffect(() => {
     loadData()
-
-
   }, [])
 
   const loadData = async () => {
